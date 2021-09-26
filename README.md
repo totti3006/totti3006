@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @totti3006
-- 👀 I’m interested in machine learning, data science
+- 👀 I’m interested in AI
 - 🌱 I’m currently a computer science student at HCMUT
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
