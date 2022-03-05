@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @totti3006
-- 👀 I’m interested in AI
 - 🌱 I’m currently a computer science student at HCMUT
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 totti3006/totti3006 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
