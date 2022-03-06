@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @totti3006
+- 👋 Hi, I’m @kedat
 - 🌱 I’m currently a computer science student at HCMUT
 
 <!---
